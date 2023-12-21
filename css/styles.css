@@ -1,0 +1,241 @@
+.wrapper {
+    margin: 0 auto;
+    min-width: 1920px;
+}
+
+.first_screen {
+
+    min-height: 700px;
+    background-color: #EEEFF1;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 164.063%;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+}
+
+.first_screen_word {
+    display: inline-block;
+    margin-left: 399px;
+    margin-top: 79px;
+}
+
+.first_screen_text {
+    display: inline-block;
+    margin-left: 42px;
+}
+
+.second_text {
+    color: #000;
+
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 164.063%;
+    margin: 151px 0px 60px 399px;
+
+}
+
+.lorem_text {
+    width: 540px;
+    height: 67px;
+    color: #727272;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 164.063%;
+    margin-left: 400px;
+}
+
+.button {
+    min-width: 225px;
+    min-height: 65px;
+    background-color: #34547A;
+    margin: 65px 0px 141px 399px;
+}
+
+.button_text {
+    color: #FFF;
+    width: 143px;
+    height: 26px;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 164.063%;
+    letter-spacing: 1.6px;
+    margin-left: 41px;
+    margin-top: 19px;
+}
+
+.about_me {
+    width: 403px;
+    height: 30px;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 500;
+    margin-left: 758px;
+    margin-top: 112px;
+}
+
+.about_lorem {
+    width: 540px;
+    height: 67px;
+    color: #727272;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 164.063%;
+    margin-top: 50px;
+    margin-left: 690px;
+    margin-bottom: 100px;
+}
+
+.blue {
+    min-width: 1920px;
+    height: 250px;
+    flex-shrink: 0;
+    background: var(--Accent, #34547A);
+}
+
+
+.blue_background:first-of-type {
+    padding-left: 409px;
+}
+
+
+
+.blue_background {
+    margin: 0;
+    display: inline-flex;
+    width: 141px;
+    height: 50px;
+    margin: 100px 45px 100px 49px;
+
+}
+
+.group {
+    width: 71px;
+    height: 44px;
+    flex-shrink: 0;
+    color: #FFF;
+    display: inline;
+}
+
+.group span {
+    width: 71px;
+    height: 15px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 164.063%;
+
+
+}
+
+.group h3 {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 500;
+    width: 36px;
+    height: 19px;
+    display: inline;
+
+}
+
+.blue_background img {
+    margin-right: 20px;
+}
+
+.how_do_i_work {
+    width: 403px;
+    height: 30px;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 500;
+    margin: 0px 759px 0px 758px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.video {
+    min-width: 1920px;
+    height: 1004px;
+    flex-shrink: 0;
+    background-color: #EEEFF1;
+
+}
+
+.youtube {
+    margin: 57px 100px 405px 405px;
+}
+
+.video1 {
+    width: 1110px;
+    height: 600px;
+    flex-shrink: 0;
+
+}
+
+.about_lorem1 {
+    width: 540px;
+    height: 67px;
+    color: #727272;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 164.063%;
+    padding-left: 690px;
+
+}
+
+footer {
+    min-width: 1920px;
+    height: 151px;
+    flex-shrink: 0;
+    background: var(--Accent, #34547A);
+
+}
+
+footer p {
+    width: 130px;
+    height: 19px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: normal;
+    padding-left: 406px;
+    padding-top: 50px;
+    margin-top: 0px;
+}
+
+footer span {
+    width: 193px;
+    height: 12px;
+    flex-shrink: 0;
+
+    color: #FFF;
+
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 164.063%;
+    padding-left: 406px;
+    padding-top: 20px;
+}
